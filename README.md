@@ -29,7 +29,7 @@ Approximate techniques were inspired by recent research (APPAs methodology) to r
 - MATLAB scripts used for error metric calculation: **ER, MED, MRED, NMED**.
 - Results show trade-offs in **accuracy vs area/power** – useful for low-power VLSI systems.
 
-📁 [See the Project Repository](#) <!-- Replace with actual repo link -->
+📁 [See the Project Repository](https://github.com/vijayasankarankarthik/Approximate_parallel_prefix_adders.git) 
 
 ---
 
