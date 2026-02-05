@@ -38,7 +38,7 @@ https://github.com/vijayasankarankarthik/Approximate_parallel_prefix_adders.git
 
 ---
 
-### 🤖 Multifunctional Discord Bot (Java)
+### 🤖 Multifunctional Discord Bot (Java): Karlsefni
 
 **Description:**  
 Developed a modular Discord bot using **Java and JDA**, featuring command handling, moderation tools (`kick`, `ban`), and utility commands.
