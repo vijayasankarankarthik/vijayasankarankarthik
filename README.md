@@ -1,93 +1,127 @@
-# 👋 Hi, I'm Vijaya Sankaran K
+<div align="center">
 
-Welcome to my GitHub!
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&repeat=false&width=900&height=70&lines=VIJAYA+SANKARAN+K"/>
 
-I’m a final-year **Electronics and Communication Engineering** student with a growing focus on **software development and system-level problem solving**. My background in digital logic and hardware design has shaped how I think about efficiency, structure, and optimization—skills I now actively apply while building software projects.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=2500&pause=800&color=A0A0A0&center=true&vCenter=true&width=900&lines=Backend+Developer;System+Design+Enthusiast;Software+Architecture;Exploring+GenAI+Applications"/>
 
-I enjoy learning by building, whether it’s designing digital systems at the hardware level or developing modular, maintainable software applications.
-
----
-
-## 🔧 What I'm Currently Working On
-
-- 💻 **Software Development** – Building clean, modular applications with a focus on readability and scalability  
-- ☕ **Java Programming** – Event-driven design, APIs, and object-oriented concepts  
-- 🧠 **System & Logic Design** – Applying low-level optimization thinking to higher-level software systems  
-- 🌐 **Web & Application Development** – Working with real-world requirements and deployment workflows  
+</div>
 
 ---
 
-## ✅ Featured Projects
+# PROFILE
 
-### 🎯 Design and Analysis of 8-bit Approximate Parallel Prefix Adders
+Software developer passionate about building scalable backend systems, designing clean software architectures, and exploring practical GenAI applications.
 
-**Description:**  
-Designed and analyzed **exact and approximate 8-bit Kogge-Stone and Ladner-Fischer adders** using Verilog HDL. Approximation techniques inspired by recent research were applied to reduce logic complexity while maintaining acceptable accuracy.
-
-**Why this project matters:**  
-This project strengthened my understanding of **optimization, trade-offs, system design, and verification**, which directly influences how I approach performance-aware software development.
-
-**Highlights:**
-- Exact and approximate adders implemented from scratch  
-- Functional verification using ModelSim with 10,000 randomized input vectors  
-- Error metrics analyzed using MATLAB (**ER, MED, MRED, NMED**)  
-- Clear trade-offs demonstrated between **accuracy, delay, and power**
-
-📁 **Repository:**  
-https://github.com/vijayasankarankarthik/Approximate_parallel_prefix_adders.git
+I enjoy understanding systems end-to-end, writing maintainable code, and continuously improving as an engineer.
 
 ---
 
-### 🤖 Multifunctional Discord Bot (Java): Karlsefni
+# CURRENT FOCUS
 
-**Description:**  
-Developed a modular Discord bot using **Java and JDA**, featuring command handling, moderation tools (`kick`, `ban`), and utility commands.
-
-**Key Learnings:**
-- Event-driven architecture  
-- Clean separation of concerns  
-- API integration and external libraries  
-- Writing maintainable, scalable Java code  
-
-This project reflects my transition into **software engineering and backend development**.
+```text
+▸ Backend Engineering
+▸ REST API Design
+▸ System Design
+▸ Software Architecture
+▸ GenAI Applications
+▸ Data Structures & Algorithms
+```
 
 ---
 
-### 🌐 ELCOM DAIS – Official Student Committee Website
+# STACK
 
-**Description:**  
-Designed and developed the official website with the help of AI tools for the **ELCOM DAIS** student committee at SASTRA SRC.
+<div align="center">
 
-**What this demonstrates:**
-- Responsive and user-friendly design  
-- Real-world requirement handling  
-- Deployment workflows
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,spring,react,postgres,docker,git,github,linux,idea,vscode"/>
 
----
+<br><br>
 
-## 🌱 Currently Learning & Improving
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Bruno-F97316?style=flat-square"/>
 
-- Backend fundamentals and REST API design  
-- Data Structures and problem-solving  
-- Strengthening Java and system design concepts  
-- Understanding how hardware-level optimization ideas apply to software systems  
+</div>
 
 ---
 
-## 🌿 Mindset
+# SELECTED WORK
 
-I value **clarity, consistency, and continuous learning**.  
-I enjoy understanding systems end-to-end and improving them step by step—whether in hardware or software.
+## User Service
 
-My goal is to grow as a **software engineer**, contribute meaningfully to real-world products, and keep learning from strong teams and practical challenges.
+**Java • Spring Boot • PostgreSQL**
 
----
+Production-style REST API implementing layered architecture, validation, CRUD operations and clean service design.
 
-## 📫 Connect With Me
-
-📧 vijaysankaran9102gsk@gmail.com  
-🔗 GitHub: https://github.com/vijayasankarankarthik
+Repository:
+https://github.com/vijayasankarankarthik/userservice
 
 ---
 
-🛠️ *“Simplicity is the ultimate sophistication.” – Leonardo da Vinci*
+## Approximate Parallel Prefix Adders
+
+**Verilog • MATLAB • ModelSim**
+
+Research project implementing exact and approximate Kogge-Stone and Ladner-Fischer adders with performance analysis.
+
+Repository:
+https://github.com/vijayasankarankarthik/Approximate_parallel_prefix_adders
+
+---
+
+## ELCOM DAIS Website
+
+Official student committee website focused on responsive UI and deployment.
+
+---
+
+# INTERESTS
+
+| | |
+|---|---|
+| System Design | Software Architecture |
+| Backend Engineering | GenAI Applications |
+| Performance Optimization | API Design |
+
+---
+
+# ACTIVITY
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vijayasankarankarthik&theme=github_dark&hide_border=true&show_icons=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=vijayasankarankarthik&theme=github-dark&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vijayasankarankarthik&theme=github-dark&hide_border=true"/>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/vijayasankarankarthik/vijayasankarankarthik/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# CONNECT
+
+<div align="center">
+
+
+LinkedIn • https://www.linkedin.com/in/vijaya-sankaran-karthik-6767a4324
+
+Email • vijaysankaran9205@gmail.com
+
+</div>
+
+---
+
+<div align="center">
+
+*"I want to become a kinder, stronger person."*
+
+**— Thorfinn Karlsefni, Vinland Saga**
+
+</div>
