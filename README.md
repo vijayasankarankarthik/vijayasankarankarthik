@@ -49,6 +49,29 @@ I enjoy understanding systems end-to-end, writing maintainable code, and continu
 
 ## User Service
 
+## Xodus (In Progress)
+
+**Go • gRPC • PostgreSQL • Docker**
+
+A distributed communication platform built to explore production-grade backend architecture.
+
+Features implemented so far:
+
+- API Gateway
+- Auth & User microservices
+- gRPC service-to-service communication
+- JWT authentication & middleware
+- Role-Based Access Control (RBAC) foundation
+- Saga-style registration with compensation rollback
+- Layered architecture (Handler → Service → Repository)
+
+Currently expanding with authorization, event-driven communication, caching, and real-time messaging.
+
+Repository:
+https://github.com/vijayasankarankarthik/xodus
+
+---
+
 **Java • Spring Boot • PostgreSQL**
 
 Production-style REST API implementing layered architecture, validation, CRUD operations and clean service design.
@@ -67,11 +90,6 @@ Research project implementing exact and approximate Kogge-Stone and Ladner-Fisch
 Repository:
 https://github.com/vijayasankarankarthik/Approximate_parallel_prefix_adders
 
----
-
-## ELCOM DAIS Website
-
-Official student committee website focused on responsive UI and deployment.
 
 ---
 
