@@ -47,8 +47,6 @@ I enjoy understanding systems end-to-end, writing maintainable code, and continu
 
 # SELECTED WORK
 
-## User Service
-
 ## Xodus (In Progress)
 
 **Go • gRPC • PostgreSQL • Docker**
@@ -71,6 +69,8 @@ Repository:
 https://github.com/vijayasankarankarthik/xodus
 
 ---
+
+## User Service
 
 **Java • Spring Boot • PostgreSQL**
 
