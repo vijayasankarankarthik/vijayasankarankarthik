@@ -107,7 +107,7 @@ https://github.com/vijayasankarankarthik/Approximate_parallel_prefix_adders
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vijayasankarankarthik&theme=github_dark&hide_border=true&show_icons=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vijayasankarankarthik&theme=github_dark&hide_border=true&show_icons=true"/>
 
 <img height="170" src="https://streak-stats.demolab.com?user=vijayasankarankarthik&theme=github-dark&hide_border=true"/>
 
