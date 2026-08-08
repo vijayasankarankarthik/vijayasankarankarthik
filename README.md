@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&repeat=false&width=900&height=70&lines=VIJAYA+SANKARAN+K"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&repeat=false&width=900&height=70&lines=VIJAYA+SANKARAN+KARTHIK"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=2500&pause=800&color=A0A0A0&center=true&vCenter=true&width=900&lines=Backend+Developer;System+Design+Enthusiast;Software+Architecture;Exploring+GenAI+Applications"/>
 
@@ -138,7 +138,7 @@ Email • vijaysankaran9205@gmail.com
 
 <div align="center">
 
-*"I want to become a kinder, stronger person."*
+*"I want to become a kinder and stronger person."*
 
 **— Thorfinn Karlsefni, Vinland Saga**
 
